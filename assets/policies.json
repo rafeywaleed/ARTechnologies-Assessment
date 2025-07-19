@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Life Secure Plus",
+    "number": "POL-2025-001",
+    "status": "Active",
+    "nextPremiumDue": "15 Oct 2025",
+    "startDate": "15 Oct 2020",
+    "maturityDate": "15 Oct 2040",
+    "sumAssured": "$500,000",
+    "premiumFrequency": "Monthly",
+    "lastPremiumPaid": "15 Sep 2025",
+    "nextPremiumAmount": "$120.00"
+  },
+  {
+    "name": "Health Shield",
+    "number": "POL-2022-045",
+    "status": "Active",
+    "nextPremiumDue": "20 Nov 2025",
+    "startDate": "20 Nov 2019",
+    "maturityDate": "20 Nov 2039",
+    "sumAssured": "$250,000",
+    "premiumFrequency": "Quarterly",
+    "lastPremiumPaid": "20 Aug 2025",
+    "nextPremiumAmount": "$350.00"
+  },
+  {
+    "name": "Retirement Plan",
+    "number": "POL-2021-112",
+    "status": "Lapsed",
+    "nextPremiumDue": "05 Dec 2025",
+    "startDate": "05 Dec 2018",
+    "maturityDate": "05 Dec 2038",
+    "sumAssured": "$1,000,000",
+    "premiumFrequency": "Yearly",
+    "lastPremiumPaid": "05 Dec 2022",
+    "nextPremiumAmount": "$1,200.00"
+  }
+]
